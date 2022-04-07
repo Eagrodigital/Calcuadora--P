@@ -1,0 +1,119 @@
+
+body{
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: url(/Calculadora/eagro2\ copy.jpg) no-repeat center center;
+    background-size: cover;
+}
+
+input{
+    color:#fff;
+    padding: 17px;
+    outline: none;
+    font-size: 30px;
+    font-family: 'Inconsolata', monospace;
+    border-radius: 0.5em;
+}
+
+.num{
+    width: 64px;
+    height: 67px;
+    font-size: 16px;
+
+}
+
+.text{
+    width: 160px;
+    height: 26px;
+    border-radius: 22px;
+    letter-spacing: 5px;
+    text-align: center;
+    margin-bottom: 12px;
+}
+
+.text1{
+    cursor: pointer;
+    width: 30px;
+    height: 26px;
+    border-radius: 22px;
+    letter-spacing: 5px;
+    text-align: center;
+    margin-bottom: 12px;
+}
+
+.main{
+    display: block;
+}
+
+.maincolor{
+    background-color: #000;
+}
+
+
+
+.add{
+    background-color: #fff ;
+    color: #000;
+}
+
+.sub{
+    background-color: #fff;
+    color: #000
+}
+
+.mult{
+    background-color:#fff ;
+    color: #000
+}
+
+.div{
+    background-color: #fff;
+    color: #000
+}
+
+.eql{
+    background-color: #fff;
+    color: #000
+}
+
+a{
+    width: 105px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 50px;
+    text-decoration: none;
+    color: white;
+    background-color: rgb(55, 55, 100);
+    text-align: center;
+    border-radius: 0.5em;
+    
+}
+
+form{
+    background: rgb(62, 41, 156);
+    border-radius: 0.5em;
+}
+
+.coldplay{
+    padding: 1.5em;
+    align-items: center;
+    width: 17em;
+}
+
+img{
+    width: 64px;
+    height: 60px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+p{
+    
+    margin-left: 45px;
+    color: #fff;
+}
